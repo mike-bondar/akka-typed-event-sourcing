@@ -1,0 +1,5 @@
+.bsp
+.idea
+db/*
+!db/.keep
+target
